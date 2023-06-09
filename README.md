@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Garcia</h1>
 <h3 align="center">I'm looking to improve every day so that I can work in a great technology company.</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python, React, Vue.js**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Python, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

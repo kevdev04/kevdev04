@@ -1,6 +1,5 @@
-![Banner](img/banner.png)
 
-Hi! My name is Kevin Garcia and I am a Software Engineer Student based in Puebla.      
+Hi! My name is **Kevin Garcia** and I am a Software Engineer Student based in Puebla.      
 I'm a 20-year-old student just having fun with software. **I am focused and working for my goals every time more inspired**
 
 ### Tools

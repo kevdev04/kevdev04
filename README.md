@@ -16,9 +16,9 @@ I'm a 20-year-old student just having fun with software. **I am focused and work
 [![FastAPI](https://shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)](https://fastapi.tiangolo.com/)
 [![Express](https://shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/es/)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevdev04&show_icons=true&theme=synthwave)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevdev04&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevdev04&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
-[![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kev.gael)
+[![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kevggael)
 [![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevingael/)
